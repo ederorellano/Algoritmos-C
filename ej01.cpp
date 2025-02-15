@@ -3,7 +3,10 @@ using namespace std;
 
 int main() {
     system("cls");
-    int tp, ext, exp, cf;
+    int tp, ext, exp;
+    float cf;
+    cout<<"Curso Introduccion a la Computacion\n";
+    cout<<"-----------------------------------\n\n";
     cout<<"Ingrese el promedio de sus 3 trabajos practicos: ";
     cin>>tp;
     cout<<"Ingrese su Calificacion del Examen Teorico: ";
