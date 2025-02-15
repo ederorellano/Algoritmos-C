@@ -10,7 +10,7 @@ int main() {
     cin>>ext;
     cout<<"Ingrese su Calificacion del Examen Practico: ";
     cin>>exp;
-    cf = 0.4 * tp + 2.5 * ext + 3.5 * exp;
+    cf = (0.4 * tp + 2.5 * ext + 3.5 * exp)/3;
     cout<<"\n\nSu calificacion final es: "<<cf;
     return 0;
 }
