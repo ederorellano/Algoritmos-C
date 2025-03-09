@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip>
+#include <iomanip> // Para usar las funciones de Fixed y setprecision
 #include <conio.h>
 
 using namespace std;
