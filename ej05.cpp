@@ -5,9 +5,9 @@ using namespace std;
 int main() {
     system("cls");
     int p;
-    cout<<"PRESUPUESTO ANUAL DE LA FACULTAD"<<endl;
+    cout<<"PRESUPUESTO ANUAL DE LA FACULTAD DE KELLY"<<endl;
     cout<<"--------------------------------"<<"\n\n";
-    cout<<"-> 30% para la Escuela de Quimica"<<endl;
+    cout<<"-> 30% para la Escuela de Agronomia"<<endl;
     cout<<"-> 20% para la Escuela de Fisica"<<endl;
     cout<<"-> 35% para la Escuela de Computacion"<<endl;
     cout<<"-> 25% para la Escuela de Biologia"<<"\n\n\n";
